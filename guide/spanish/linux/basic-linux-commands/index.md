@@ -4,7 +4,7 @@ localeTitle: Comandos básicos de Linux
 ---
 ## Comandos básicos de Linux
 
-Al comenzar con Linux, hay algunos comandos básicos que todos deben conocer.
+Al comenzar con Linux, hay algunos comandos básicos que todos deben conocer:
 
 1.  **cd** - cambiar directorio
 
@@ -16,7 +16,7 @@ Al comenzar con Linux, hay algunos comandos básicos que todos deben conocer.
 
 1.  **hombre** - comando manual
 
-*   Te muestra el manual para el siguiente comando. Esto es muy útil cuando se trata de averiguar cómo funciona un comando desconocido. Por ejemplo, escriba `man ls` para todo lo que necesita saber sobre el comando ls. Teclea `q` para salir.
+*   Te muestra el manual para el siguiente comando. Esto es muy útil cuando se trata de averiguar cómo funciona un comando desconocido. Por ejemplo, escriba `man ls` para todo lo que necesita saber sobre el comando ls. Teclee `q` para salir.
 
 1.  **pwd** - camino
 
@@ -36,7 +36,7 @@ Al comenzar con Linux, hay algunos comandos básicos que todos deben conocer.
 
 1.  **tocar** - crea un archivo
 
-*   El comando táctil se utiliza para crear un archivo. Puede ser cualquier cosa, desde un archivo txt vacío a un archivo zip vacío. 'touch new.txt' creará un nuevo archivo con el nombre nuevo.
+*   El comando `tocar` se utiliza para crear un archivo. Puede ser cualquier cosa, desde un archivo txt vacío a un archivo zip vacío. `touch new.txt` creará un nuevo archivo con el nombre nuevo.
 
 1.  **mv** - mover
 
@@ -44,7 +44,7 @@ Al comenzar con Linux, hay algunos comandos básicos que todos deben conocer.
 
 1.  **clic derecho** - copiar y pegar
 
-*   Este es un comando menos y más práctico, sin embargo, es muy útil para hacer casi cualquier cosa en un terminal en Linux. Para comenzar, resalte el texto como normal y luego haga clic con el botón derecho en su mouse para copiar una selección. Debería ver que la parte resaltada no está resaltada, esto significa que copió la selección. Ahora haga clic derecho en el lugar donde desea pegar la selección y listo.
+*   Este es un comando menos y más práctico. Sin embargo, es muy útil para hacer casi cualquier cosa en un terminal en Linux. Para comenzar, resalte el texto como normal y luego haga clic con el botón derecho en su mouse para copiar una selección. Debería ver que la parte resaltada no está resaltada, esto significa que copió la selección. Ahora haga clic derecho en el lugar donde desea pegar la selección y listo.
 
 1.  **menos** - ver el contenido del archivo
 
